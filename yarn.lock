@@ -9076,6 +9076,7 @@ __metadata:
     storybook-dark-mode: "npm:^3.0.3"
     stylelint: "npm:^16.0.2"
     stylelint-config-standard-scss: "npm:^12.0.0"
+    sudoku-core: "npm:^2.0.5"
     typescript: "npm:^5.3.3"
     vite: "npm:^5.0.10"
     vite-tsconfig-paths: "npm:^4.2.2"
@@ -11765,6 +11766,13 @@ __metadata:
   bin:
     stylelint: bin/stylelint.mjs
   checksum: 5ec755e209beb1877ff40d50f18c1ebb05bf251925da1f98f28fb3911e4031195eb86adaf641ac5cdb01ba973f4c999bc0c6b0270d08c1d5c070adbdd9e734cf
+  languageName: node
+  linkType: hard
+
+"sudoku-core@npm:^2.0.5":
+  version: 2.0.5
+  resolution: "sudoku-core@npm:2.0.5"
+  checksum: e1425242149b305cc774f013b3cd0f5266e469cb478903c342548da6f65e0ab4cad7c8a322a37e0ea309dd384fb8b2b229b4dce7ec20658613f17a9d8b8ab1c6
   languageName: node
   linkType: hard
 
