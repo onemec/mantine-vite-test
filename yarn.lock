@@ -9158,7 +9158,7 @@ __metadata:
     identity-obj-proxy: "npm:^3.0.0"
     jsdom: "npm:^23.0.1"
     postcss: "npm:^8.4.32"
-    postcss-preset-mantine: "npm:1.12.1"
+    postcss-preset-mantine: "npm:1.12.3"
     postcss-simple-vars: "npm:^7.0.1"
     prettier: "npm:^3.1.1"
     prop-types: "npm:^15.8.1"
@@ -10193,15 +10193,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-preset-mantine@npm:1.12.1":
-  version: 1.12.1
-  resolution: "postcss-preset-mantine@npm:1.12.1"
+"postcss-preset-mantine@npm:1.12.3":
+  version: 1.12.3
+  resolution: "postcss-preset-mantine@npm:1.12.3"
   dependencies:
     postcss-mixins: "npm:^9.0.4"
     postcss-nested: "npm:^6.0.1"
   peerDependencies:
     postcss: ">=8.0.0"
-  checksum: 3114893b35f63892e79c63174d0cb0513673e4acb84bcc7801bab3814f1decea3cfd4ef43f1aa4452cb7c838a8f6004dda552af80b4887189aa1c785a4b50e09
+  checksum: 45dba9a9a04d96a3730ca3593c72a6eda0d35fd3e519c72ef8723add4e91dc28d4550c77461a3d0ba84c2ef4601e112e93cb24268c38ecd853ff427e3377ebb9
   languageName: node
   linkType: hard
 
