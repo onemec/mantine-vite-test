@@ -2291,9 +2291,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:7.4.2":
-  version: 7.4.2
-  resolution: "@mantine/core@npm:7.4.2"
+"@mantine/core@npm:7.5.0":
+  version: 7.5.0
+  resolution: "@mantine/core@npm:7.5.0"
   dependencies:
     "@floating-ui/react": "npm:^0.24.8"
     clsx: "npm:2.0.0"
@@ -2302,19 +2302,19 @@ __metadata:
     react-textarea-autosize: "npm:8.5.3"
     type-fest: "npm:^3.13.1"
   peerDependencies:
-    "@mantine/hooks": 7.4.2
+    "@mantine/hooks": 7.5.0
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 65ef7ed762c6d16dc422800f9278dcc0535eaaeda68b0150421d14723150e5e2a2d59214516837627ccbf932ef814006dfa7fe246a2353299dd49ac6ab4f8d8c
+  checksum: 4350f5586a1d4983a2121a6af82137cf55d0b523c6576423df2a21c6c81ee87d0547afd0b29d7d1c650e5e6abf00a8ba394fc9db1f10363cd7d7fbbfc256043b
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:7.4.2":
-  version: 7.4.2
-  resolution: "@mantine/hooks@npm:7.4.2"
+"@mantine/hooks@npm:7.5.0":
+  version: 7.5.0
+  resolution: "@mantine/hooks@npm:7.5.0"
   peerDependencies:
     react: ^18.2.0
-  checksum: 76cc1a0764161280814b7885ef6b744f61f41134c0efb02a56b326b2b62d3a7ef3f388fb5a21131058e32b6ecc6963ae873e105edee1f9a30f8aa78cdb8a7d7c
+  checksum: 4db4193e6e3504b53705f569d022718834a7edcc32c95296cc850a537bdb07f026eecd7bfc67429c0c78777ed704ed3a157fa9048803cb29612dd1a60ba9c43b
   languageName: node
   linkType: hard
 
@@ -9154,8 +9154,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "mantine-vite-template@workspace:."
   dependencies:
-    "@mantine/core": "npm:7.4.2"
-    "@mantine/hooks": "npm:7.4.2"
+    "@mantine/core": "npm:7.5.0"
+    "@mantine/hooks": "npm:7.5.0"
     "@storybook/addon-essentials": "npm:^7.6.5"
     "@storybook/addon-interactions": "npm:^7.6.5"
     "@storybook/addon-links": "npm:^7.6.5"
